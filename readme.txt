@@ -16,6 +16,7 @@
 >>>>>>> fenzhi1
 7777777777777777777777
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+<<<<<<< HEAD
 fffffffffffffffffffff
 gggggggggggggggggggggggggggggg
 <<<<<<< HEAD
@@ -23,3 +24,7 @@ bbbbbbbbbb
 =======
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 >>>>>>> b5cb633bf2a98c80e72b9687c285824a1db38da8
+=======
+ffffffffffffffffffffffffffffff
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> 38ddb97468de4fbec14c8278fa33552be900ba28
